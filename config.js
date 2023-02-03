@@ -10,7 +10,7 @@ global.prems = [] // Premium user has unlimited limit
 global.helper = ['6285850539404']
 global.api = '45083080630f3830a5bed882'
 global.APIs = { // API Prefix
-  // name: 'https://website'
+  // name: 'https://api.zeeoneofc.my.id': 'Ad5AnCCv''
   amel: 'https://melcanz.com',
     bx: 'https://bx-hunter.herokuapp.com',
   dhnjing: 'https://dhnjing.xyz', 
@@ -36,7 +36,7 @@ global.APIs = { // API Prefix
   LeysCoder: 'https://leyscoders-api.herokuapp.com' 
 }
 global.APIKeys = { // APIKey Here
-  // 'https://website': 'apikey'
+  // 'https://api.zeeoneofc.my.id': 'Ad5AnCCv'
   'https://melcanz.com': 'elaina',
   'https://hardianto.xyz': 'hardianto',
   'https://api.xteam.xyz': 'Dawnfrostkey',
